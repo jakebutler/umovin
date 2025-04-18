@@ -1,0 +1,36 @@
+{
+  "session_id": "f8f39f00-4978-4c16-a60d-3cfb2c25f2f2",
+  "plan_id": "b1d23456-12d4-4ef9-a72c-f49d3d91c3a0",
+  "week": 1,
+  "day": "Monday",
+  "title": "Low Impact Burn",
+  "focus": "Full-body cardio",
+  "exercises": [
+    {
+      "name": "March in Place",
+      "type": "cardio",
+      "duration": "2 min"
+    },
+    {
+      "name": "Glute Bridge",
+      "type": "bodyweight",
+      "reps": "3x12"
+    },
+    {
+      "name": "Wall Sit",
+      "type": "bodyweight",
+      "duration": "30 sec"
+    }
+  ],
+  "duration_minutes": 30,
+  "notes": "Includes warmup and cooldown. Avoid jumping.",
+  "calendar_event": {
+    "calendar_id": "d77ba580-c0c6-4bd1-984d-8f02ce934278",
+    "session_id": "f8f39f00-4978-4c16-a60d-3cfb2c25f2f2",
+    "google_calendar_url": "https://www.google.com/calendar/render?action=TEMPLATE&text=Low+Impact+Burn&dates=20250422T070000Z/20250422T073000Z&details=March+in+Place%2C+Glute+Bridge%2C+Wall+Sit&location=Home",
+    "event_start": "2025-04-22T07:00:00Z",
+    "event_end": "2025-04-22T07:30:00Z",
+    "timezone": "America/New_York",
+    "generated_at": "2025-04-18T14:15:00Z"
+  }
+}
