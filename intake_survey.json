@@ -1,0 +1,18 @@
+{
+  "survey_id": "7a43a8d0-4dcb-47c9-9d2f-b70a2894e6fc",
+  "user_id": "9f82e88d-1cb3-4e4f-9875-2f0b4a8e540c",
+  "goal": "Weight Loss",
+  "fitness_level": "Beginner",
+  "workout_environment": "Home",
+  "equipment": ["Yoga Mat"],
+  "preferred_styles": ["HIIT", "Bodyweight"],
+  "available_days": ["Monday", "Wednesday", "Friday"],
+  "time_slots": {
+    "Monday": "07:00",
+    "Wednesday": "07:00",
+    "Friday": "07:00"
+  },
+  "session_length_minutes": 30,
+  "constraints": ["knee pain"],
+  "submitted_at": "2025-04-18T14:05:00Z"
+}
